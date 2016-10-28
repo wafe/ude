@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/wafe/ude</licenseUrl>
+    <projectUrl>https://github.com/wafe/ude</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/wafe/ude/517eaeda23c4df9f7404a2b6328c0a0ada8cccf6/firefox-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>charset detect</tags>
+  </metadata>
+</package>
