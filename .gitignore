@@ -1,0 +1,7 @@
+Backup/
+src/Example/obj/
+src/Example/bin/
+src/Library/bin/
+src/Library/obj/
+src/Tests/bin/
+src/Tests/obj/
